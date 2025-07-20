@@ -6,6 +6,10 @@ You're controlling the snake using a voice commands!
 Say commands: right, left, up, and down to control the direction in which the snake moves.
 
 ---
+## How to play:
+[Download the game here](https://github.com/Visual-Studio-Coder/audio-snake/releases/download/v1.0.0/audio-snake-1.0-SNAPSHOT.jar) and run this command at the path where the jarfile exists or open in Quick Look and press the `Open with JavaLauncher` button:
+```java -jar audio-snake-1.0-SNAPSHOT.jar```
+
 This project was created in Java and uses the Maven automation tool, which makes it easy to use packages/dependencies from all over the web, created by people around the world.
 
 ## Here is the list of dependencies we're using:
